@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, eu sou o Arthur Daniel 🤘
 
-<!--
-**arthurdanielp/arthurdanielp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurdanielp/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-daniel-24831a366/)
 
-Here are some ideas to get you started:
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurdanielp&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu uso
+
+<div style ="display: inline_block"><br/>
+<img align= "center" alt= "Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align= "center" alt= "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img align= "center" alt= "C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+</div>
+
+### Apenas um estudante de Sistemas de informação que ama codar e resolver problemas
